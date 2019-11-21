@@ -1,0 +1,101 @@
+[
+  {
+    "orders": {
+      "lead": {
+        "plan_id": "111",
+        "service_resource_id": "123545455465",
+        "created": 3434343434,
+        "status": "parked/under-spin-up"
+      },
+      "followers": [
+        {
+          "plan_id": "222",
+          "service_resource_id": "123545455465",
+          "created": 3434343434,
+          "status": "parked/under-spin-up"
+        },
+        {
+          "plan_id": "333",
+          "service_resource_id": "123545455465",
+          "created": 3434343434,
+          "status": "parked/under-spin-up"
+        },
+        {
+          "plan_id": "444",
+          "service_resource_id": "123545455465",
+          "created": 3434343434,
+          "status": "parked/under-spin-up"
+        }
+      ],
+      "conflict_id": "gw|mtn23b|coca|",
+      "spin_completed": "yes",
+      "spinup_completion_time": 3434343434
+    }
+  },
+  {
+    "orders": {
+      "conflict_id": "gw|mtn23b|coca|",
+      "spin_completed": "yes",
+      "spinup_completion_time": 3434343434,
+      "lead": {
+        "plan_id": "555",
+        "service_resource_id": "123545455465",
+        "created": 3434343434,
+        "status": "parked/under-spin-up"
+      },
+      "followers": [
+        {
+          "plan_id": "666",
+          "service_resource_id": "123545455465",
+          "created": 3434343434,
+          "status": "parked/under-spin-up"
+        },
+        {
+          "plan_id": "777",
+          "service_resource_id": "123545455465",
+          "created": 3434343434,
+          "status": "parked/under-spin-up"
+        },
+        {
+          "plan_id": "888",
+          "service_resource_id": "123545455465",
+          "created": 3434343434,
+          "status": "parked/under-spin-up"
+        }
+      ]
+    }
+  },
+  {
+    "orders": {
+      "conflict_id": "gw|mtn23b|coca|",
+      "spin_completed": "yes",
+      "spinup_completion_time": 3434343434,
+      "lead": {
+        "plan_id": "999",
+        "service_resource_id": "123545455465",
+        "created": 3434343434,
+        "status": "parked/under-spin-up"
+      },
+      "followers": [
+        {
+          "plan_id": "123",
+          "service_resource_id": "123545455465",
+          "created": 3434343434,
+          "status": "parked/under-spin-up"
+        },
+        {
+          "plan_id": "456",
+          "service_resource_id": "123545455465",
+          "created": 3434343434,
+          "status": "parked/under-spin-up"
+        },
+        {
+          "plan_id": "789",
+          "service_resource_id": "123545455465",
+          "created": 3434343434,
+          "status": "parked/under-spin-up"
+        }
+      ]
+    }
+  }
+]
